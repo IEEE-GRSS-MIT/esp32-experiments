@@ -31,7 +31,3 @@ This project demonstrates how to use an ESP32 microcontroller with an HC-SR04 ul
 
 ---
 
-## 🚀 Getting Started
-
-### 📁 Folder Structure
-
