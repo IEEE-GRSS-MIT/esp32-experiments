@@ -1,3 +1,14 @@
+/*
+  ESP32 Ultrasonic Distance Web Server
+
+  Code developed by Siddharth Huddar  
+  Technical Head, IEEE GRSS, MIT Manipal
+
+  Description:
+  This project uses an ESP32 and an ultrasonic sensor to measure distance and 
+  serve the data over a local WiFi network using a web server.
+*/
+
 #include "WiFi.h"
 #include "ESPAsyncWebServer.h"
 #include <Adafruit_Sensor.h>
