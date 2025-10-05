@@ -4,7 +4,7 @@ A simple ESP32 project that reads temperature and humidity data from a **DHT11 s
 
 ## 📷 Demo
 
-![Web UI Demo](https://via.placeholder.com/600x300.png?text=ESP32+DHT11+Web+Server+UI)
+![Web UI Demo]([https://via.placeholder.com/600x300.png?text=ESP32+DHT11+Web+Server+UI](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/03/ESP32-DHT-wiring_bb.png?w=834&quality=100&strip=all&ssl=1))
 
 ## 🚀 Features
 
