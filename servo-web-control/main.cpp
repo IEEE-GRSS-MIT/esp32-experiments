@@ -1,7 +1,13 @@
-/*********
-  Rui Santos & Sara Santos - Random Nerd Tutorials
-  Complete project details at https://RandomNerdTutorials.com/esp32-servo-motor-web-server-arduino-ide/ 
-*********/
+/*
+  ESP32 Ultrasonic Distance Web Server
+
+  Code developed by Siddharth Huddar  
+  Technical Head, IEEE GRSS, MIT Manipal
+
+  Description:
+  This project uses an ESP32 and an ultrasonic sensor to measure distance and 
+  serve the data over a local WiFi network using a web server.
+*/
 
 #include <WiFi.h>
 #include <ESP32Servo.h>
